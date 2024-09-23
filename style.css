@@ -1,0 +1,33 @@
+css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px; /* Espaçamento entre seções */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333; /* Cor do rodapé */
+    color: white; /* Cor do texto do rodapé */
+}
+
